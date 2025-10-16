@@ -8,7 +8,7 @@
   - Configure environment variables for Supabase and MCP endpoints
   - _Requirements: 7.1, 7.2, 7.3, 7.4_
 
-- [ ] 2. Configure Supabase backend and database schema
+- [x] 2. Configure Supabase backend and database schema
   - Set up Supabase project and configure authentication
   - Create database migrations for products, customers, suppliers, and sales tables
   - Implement Row Level Security (RLS) policies for data protection
