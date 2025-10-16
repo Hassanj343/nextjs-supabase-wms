@@ -16,21 +16,21 @@
   - Configure Supabase client for server and client components
   - _Requirements: 5.1, 5.2, 5.3_
 
-- [ ] 3. Implement core data models and validation
-- [ ] 3.1 Create TypeScript interfaces and Zod schemas
+- [x] 3. Implement core data models and validation
+- [x] 3.1 Create TypeScript interfaces and Zod schemas
   - Define Product, Customer, Supplier, and Sale interfaces
   - Implement Zod validation schemas for all data models
   - Create utility functions for profit calculations and currency conversion
   - _Requirements: 1.1, 1.3, 9.1, 9.3_
 
-- [ ] 3.2 Build database query functions
+- [x] 3.2 Build database query functions
   - Implement CRUD operations for products using Supabase client
   - Create customer management database functions
   - Build supplier management database functions
   - Implement sales transaction database operations
   - _Requirements: 1.2, 2.3, 3.2, 3.3_
 
-- [ ] 3.3 Write unit tests for data models and calculations
+- [x] 3.3 Write unit tests for data models and calculations
   - Test profit calculation functions with various scenarios
   - Test currency conversion utilities
   - Test Zod validation schemas with valid and invalid data
